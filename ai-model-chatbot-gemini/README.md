@@ -1,6 +1,6 @@
 # Simple command-line chat client for Google Gemini.
 
-This script loads API credentials from a `.env` file (not committed).
+This script loads API credentials from a `.env` file (not committed) yes .
 
 ## Setup
 ---
